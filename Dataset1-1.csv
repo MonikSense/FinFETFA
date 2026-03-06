@@ -1,4 +1,4 @@
-Technology,No of fins,,Node (nm),Lg,Fin height (nm),Fin width (nm),Vdd,Delay (ns),PD (microW),PDP (E-15 J)
+Technology,No of fins,Transistor count,Node (nm),Lg,Fin height (nm),Fin width (nm),Vdd,Delay (ns),PD (microW),PDP (E-15 J)
 CLA,1,14,32,30,30,40,1,0.12,2.92,0.3504
 RCA,1,14,7,50,50,5,0.7,21.03,0.472,9.92616
 CSA,1,14,7,50,50,5,0.7,20.03,0.945,18.928
@@ -32,3 +32,4 @@ Double Driving,4,30,32,30,30,8,1.1,0.0434,0.155,0.006727
 Single Driving,4,28,32,30,30,8,1.1,0.0412,0.138,0.005686
 Removed Single Driving,4,26,32,30,30,8,1.1,0.0414,0.16,0.006624
 Non Driving,4,24,32,30,30,8,1.1,0.00058,0.115,6.67E-05
+
